@@ -1,8 +1,15 @@
-# What inside? <br/> <sub> production url </sub>
+# What inside? <br/>
 
-![work in progress](https://i.imgur.com/2hHq62J.jpg)
+# <sub> demo - https://ominous-space-broccoli-9qgwx9pqq6p2pxvq-3000.app.github.dev/ <br/>
 
-// TODO - Video in the future here
+# <sub> mvp - https://ominous-space-broccoli-9qgwx9pqq6p2pxvq.github.dev</sub>
+
+# <sub> github - https://github.com/nicitaacom/acc2-image-warning-to-maintain-the-aspect-ratio</sub>
+
+<br/>
+
+![minimal-reproduce-example](https://i.imgur.com/AxIPz7y.jpg)
+
 <br/>
 <br/>
 <br/>
@@ -16,7 +23,7 @@
 ## or Step 1.1 - clone repository (variant 2)
 
 ```
-git clone https://github.com/Nicitaa/22_aer
+git clone https://github.com/nicitaacom/acc2-image-warning-to-maintain-the-aspect-ratio
 ```
 
 ## Step 1.2 - install deps
@@ -37,30 +44,4 @@ pnpm dev
 
 ## Step 2 - setup .env
 
-### 2.1 - github
-
-![Go to settings](https://i.imgur.com/vnG4aMh.png)
-
-### 2.2 - github
-
-![Go to developer settings](https://i.imgur.com/eodZM9p.png)
-
-### 2.3 - github
-
-![OAuth Apps](https://i.imgur.com/yjeGtKv.png)
-
-### 2.4 - github
-
-![New OAuth App](https://i.imgur.com/QXuo0kE.png)
-
-### 2.5 - github
-
-![Auth url](https://i.imgur.com/MKmuYnA.png)
-
-### 2.6 - github
-
-![Copy env values](https://i.imgur.com/SIkWyeE.png)
-
-### 2.7 - github
-
-![Paste env values](https://i.imgur.com/yoevhr7.png)
+You don't need to setup env
